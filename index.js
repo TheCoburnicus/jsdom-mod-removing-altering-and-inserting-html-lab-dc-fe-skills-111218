@@ -12,9 +12,9 @@ let newHeader = document.createElement('h1');
 
 function addElement (newHeader) { 
   // create a new div element 
-  var newContent = document.createTextNode("Nathan is the champion!"); 
+  var victory = document.createTextNode("Nathan is the champion!"); 
   // add the text node to the newly created div
-  newHeader.appendChild(newContent);
+  newHeader.appendChild('victory');
 }
 
-h1.appendChild('victory');
+newHeader.appendChild('victory');
