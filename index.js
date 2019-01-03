@@ -17,4 +17,4 @@ function addElement (newHeader) {
   newHeader.appendChild(newContent);
 }
 
-newHeader.id ('victory');
+newHeader.id ('victory')
