@@ -17,4 +17,4 @@ function addElement (newHeader) {
   newHeader.appendChild(newContent);
 }
 
-newHeader.appendChild('victory');
+h1.appendChild('victory');
