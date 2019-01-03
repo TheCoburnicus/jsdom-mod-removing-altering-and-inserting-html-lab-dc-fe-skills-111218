@@ -19,4 +19,4 @@ function addElement (newHeader) {
 
 /* newHeader.appendChild('victory'); */
 
-
+var h1 = document.createElement(victory["Nathan is the champion!"]);
