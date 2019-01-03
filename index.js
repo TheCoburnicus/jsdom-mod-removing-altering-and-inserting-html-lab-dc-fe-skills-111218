@@ -22,3 +22,4 @@ function addElement (newHeader) {
 var h1 = document.createElement('victory'["Nathan is the champion!"]);
 
 newHeader.id = 'victory'
+newHeader.innerText = 'Nathan is the champion!'
