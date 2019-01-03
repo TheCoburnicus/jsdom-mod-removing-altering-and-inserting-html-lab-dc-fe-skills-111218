@@ -18,4 +18,3 @@ function addElement (newHeader) {
 }
 
 newHeader.id ('victory');
-  var newContent = document.createTextNode("Nathan is the champion!");
